@@ -19,11 +19,6 @@ ChartJS.register(
 export const options = {
   barPercentage: 0.3,
   responsive: true,
-  scales: {
-    xAxes: [{
-        barPercentage: 2
-    }]
-},
   plugins: {
     title: {
       display: true,
