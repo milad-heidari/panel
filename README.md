@@ -1,1 +1,1 @@
-demo: [Demo](https://github.com/facebook/create-react-app).
+[click here for see demo](https://github.com/facebook/create-react-app).
