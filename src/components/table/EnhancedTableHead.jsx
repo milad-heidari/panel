@@ -40,6 +40,12 @@ const headCells = [
     disablePadding: false,
     label: 'Protein (g)',
   },
+  {
+    id: 'PossibilityToOrder',
+    numeric: false,
+    disablePadding: true,
+    label: 'Possibility To Order (bool)',
+  },
 ];
 
 function EnhancedTableHead(props) {
