@@ -20,3 +20,14 @@
   height: 100%;
 }
 
+.chart{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #2a2b3d;
+  width: 70vw;
+  height: 70vh;
+  margin: 1rem;
+  padding-top: 1.7rem;
+  padding-bottom: 1.7rem;
+}
