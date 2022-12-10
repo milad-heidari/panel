@@ -5,8 +5,15 @@ import Table from './components/table/Table';
 function App() {
   return (
     <div className="App">
+            <div className='container'>
+            <h3>Task one</h3>
             <BarChart/>
-            <Table/>
+            </div>
+
+            <div className='container'>
+              <h3>Task Two</h3>
+              <Table/>
+            </div>
     </div>
 
   );
